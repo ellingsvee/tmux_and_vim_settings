@@ -1,1 +1,12 @@
 .DS_store
+
+
+# From the nvim-kickstart
+tags
+test.sh
+.luarc.json
+nvim
+
+spell/
+lazy-lock.json
+
